@@ -1,12 +1,5 @@
-# Teste desenvolvedor Node.js
-
-Avisos antes de começar
-Crie um repositório no seu GitHub sem citar nada relacionado a WA.
-Faça seus commits no seu repositório.
-Envie o link do seu repositório para o email do recrutador responsável.
-Fique à vontade para perguntar qualquer dúvida aos recrutadores.
-
-OBJETIVO: Consultar 200 filmes na API do Studio Ghibli, salvar algumas informações e disponibilizar endpoint para consultar esses filmes.
+# Objetivo
+Consultar 200 filmes na API do Studio Ghibli, salvar algumas informações e disponibilizar endpoint para consultar esses filmes.
 
 # Descrição do Projeto
 
